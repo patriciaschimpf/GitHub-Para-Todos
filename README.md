@@ -1,15 +1,18 @@
-# Modificame
+# ARCHIVO MODIFICADO
 
-Este es un primer texto para *modificar*, **cambiar** y jugar.
+Ya que me permiten *modificar*, **cambiar** y jugar con este texto, me voy a tomar las atribuciones del caso:
+Este es mi nombre:
 
-> Es nuestro arenero personal
+# Patricia
+## Patricia
+### Patricia
+#### Patricia
+##### Patricia
+###### Patricia, cada vez más chiquito porque yo soy petiza.
 
-Pueden:
+> Voy a probar de hacer algo loco...
 
-- Borrarme
-- Modificarme
-- Dejarme como está y agregar nuevas carpetas
-- [Desde acá me "copian"](https://github.com/acercadelaeducacion/GitHub-Para-Todos/fork)
+Soy profe de Educación a Artística - Artes Visuales, una de mis obras es ésta:
 
-![beemo](http://media.giphy.com/media/Uoyf084JYOblK/giphy.gif "Este texto aparece cuando el mouse está sobre la imagen")
+![imagen](http://www.muralesdeceramica.com.ar/uploads/images/MitologiaGuarani/kuarahy.jpg "Esta obra está realizada en cerámica y es un mural")
 
